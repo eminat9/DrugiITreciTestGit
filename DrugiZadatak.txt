@@ -1,0 +1,55 @@
+public class konverzija {
+
+ public int broj;
+
+public int KgUFunte(int broj){
+}
+
+
+public int FunteUKg(int broj){
+}
+
+
+public int cmUInce(int broj){
+}
+
+
+public int CelzijusUFarenhajt(int broj){
+}
+
+
+public int farenhatuCelzijus(int broj){
+}
+
+
+
+}
+
+
+class Provjera{
+
+ public int [] niz;
+
+public int  najmanji(int [] niz){
+}
+
+
+public int  najmanji(int [] niz){
+}
+
+
+public int  najmanji(int [] niz){
+}
+
+
+public int  najmanji(int [] niz){
+}
+
+
+public int[]  najmanji(int [] niz){
+}
+
+
+public int[]  najmanji(int [] niz){
+}
+
